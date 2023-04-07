@@ -59,15 +59,7 @@
 }
 
 @media(max-width: 377px){
-    .logo-img{
-        width: 150px;
-    }
-
     .banner{
         padding-bottom: 50px;
-    }
-
-    .banner .play{
-        bottom: 10px;
     }
 }
