@@ -226,7 +226,7 @@ header{
     filter: invert(1);
     cursor: pointer;
 
-    position: relative;
+    position: absolute;
     top: 30px;
     right: 30px;
 }
