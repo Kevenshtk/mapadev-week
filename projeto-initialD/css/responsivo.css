@@ -54,12 +54,13 @@
     }
 
     .banner .play{
+        padding: 20px;
         bottom: 30px;
     }
 }
 
 @media(max-width: 377px){
-    .banner{
-        padding-bottom: 50px;
+    .content{
+        margin-top: 50px;
     }
 }
